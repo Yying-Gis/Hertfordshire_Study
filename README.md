@@ -9,16 +9,6 @@ Case study project for learning GIS and spatial analysis.
 
 ---
 
-## 📑 Table of Contents
-- [Overview](#overview)
-- [Files](#files)
-- [Method](#method)
-- [Key Findings](#key-findings)
-- [Links](#links)
-- [Author](#author)
-
----
-
 ## 📌 Overview
 This project compares the **1973 Ordnance Survey historic map of Swingate** with the current alignment (OpenStreetMap).  
 It also looks at changes in road boundaries and how they relate to maintenance responsibility.

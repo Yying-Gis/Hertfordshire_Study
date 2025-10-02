@@ -38,8 +38,7 @@ It also looks at changes in road boundaries and how they relate to maintenance r
 
 ## 🔗 Links
 - [📄 PDF Report](./report/Swingate_CaseStudy.pdf)  
-- [📦 ArcGIS Pro Package (PPKX)](./project/Swingate.ppkx)  
-- [Google Drive Download](https://drive.google.com/file/d/16ACnGMVxcLvwiQ3lJr8opfzN2khV8N7y/view?usp=sharing)  
+- [📦 ArcGIS Pro Package (PPKX)- Google Drive Download: https://drive.google.com/file/d/16ACnGMVxcLvwiQ3lJr8opfzN2khV8N7y/view?usp=sharing]
 
 ---
 
